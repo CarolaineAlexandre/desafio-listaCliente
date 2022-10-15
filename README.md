@@ -1,2 +1,2 @@
-# llista-clientes
+# lista-clientes
 My first repository
