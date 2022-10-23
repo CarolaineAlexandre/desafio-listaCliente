@@ -19,7 +19,8 @@ body{
 }
 
 button{
-    background-color: rgb(161, 219, 161);
+    background-color: rgb(52, 172, 52);
+    border: 2px rgb(52, 172, 52);;
     border-radius: 10px;
     font-size: medium;
 }
