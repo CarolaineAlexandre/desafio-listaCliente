@@ -23,5 +23,6 @@ button{
     border: 2px rgb(52, 172, 52);;
     border-radius: 10px;
     font-size: medium;
+    color: rgb(255, 255, 255);
     padding: 20px;
 }
